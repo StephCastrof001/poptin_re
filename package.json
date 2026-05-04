@@ -1,4 +1,7 @@
 {
+  "name": "poptin_re",
+  "version": "1.0.0",
+  "private": true,
   "devDependencies": {
     "browser-use": "^0.6.0"
   }
